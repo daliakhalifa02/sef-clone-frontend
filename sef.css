@@ -1,0 +1,141 @@
+html {
+    height: 5000px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+a.active {
+    background-color: #00DD00;
+    color: white;
+    height: 40px;
+    border-radius:1ex;
+    padding-top:10px;
+    margin-top: -10px;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 30px;
+    font-family: arial;
+    font-weight: 600;
+    color: white;
+}
+
+.sef-logo {
+    width: auto;
+    max-width: 100%;
+    max-height: 80px;
+    margin-left:30px;
+    margin-top: 10px;
+}
+
+.header-right {
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-evenly;
+}
+
+.background-img {
+    background-image: url('bg.jpg');
+    height: 850px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h1 {
+    margin-left: 100px;
+    margin-top: 250px;
+    color: white;
+    font-family: arial;
+    font-size: 65px;
+    font-stretch: condensed;
+}
+
+.sub-text {
+    font-size: 55px;
+    font-weight:lighter;
+    font-stretch: expanded;
+}
+
+.text1 {
+    color: white;
+    font-size: 25px;
+    margin-left: 100px;
+    font-family: arial;
+}
+
+button {
+    margin-left: 100px;
+    background-color: #00DD00;
+    padding: 15px;
+    border-radius:1ex;
+    color: white;
+    font-family: arial;
+    border: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.items {
+    color:#00DD00;
+    text-align: center;
+    font-size: 60px;
+    margin-left: 100px;
+    font-family: arial;
+    font-weight:bold;
+}
+
+.texts{
+    color: black;
+    font-size: 25px;
+    margin-left: 100px;
+    font-family: arial;
+    text-align:center;
+    font-weight:bold;
+}
+
+.img2{
+    width:580px;
+    height: 380px;
+    margin-left:10px;
+    margin-top: 80px;
+}
+
+.sub-text3{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 50px;
+    margin-left:-50px;
+}
+
+.sub-text2 {
+    font-family: arial;
+    font-size: 50px;
+    font-weight: light;
+    margin-top: 90px;
+    margin-left: -50px;
+}
+
+.text3 {
+    font-family:arial;
+    font-size: 27px;
+}
+
+.learn-more{
+    color:#00DD00;
+    font-family:arial;
+    font-size: 20px;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+    
+
+
